@@ -1,0 +1,23 @@
+:host {
+  border: 1px solid #4f4f4f;
+  border-radius: 10px;
+  box-shadow: 13px 15px 10px 3px darkgray;
+  padding: 20px;
+  flex: 1;
+}
+
+mat-form-field {
+  display: block;
+}
+
+.error {
+  color: #aa002c;
+  display: flex;
+  height: 2rem;
+  font-weight: 500;
+}
+
+.button-row {
+  display: flex;
+  gap: 5px;
+}
