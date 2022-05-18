@@ -5,3 +5,9 @@
   padding: 20px;
   flex: 1;
 }
+
+
+textarea {
+  min-height: 150px;
+  width: 100%;
+}
